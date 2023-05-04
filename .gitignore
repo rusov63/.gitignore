@@ -130,3 +130,7 @@ dmypy.json
 
 # User-specific stuff:
 .idea/
+
+# конфигурация подключения к БД, прописан пароль
+# git rm --cached database.ini - удалить.
+database.ini

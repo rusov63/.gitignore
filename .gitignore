@@ -134,3 +134,4 @@ dmypy.json
 # конфигурация подключения к БД, прописан пароль
 # git rm --cached database.ini - удалить.
 database.ini
+.ini
